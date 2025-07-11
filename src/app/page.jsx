@@ -17,7 +17,7 @@ export default function Home() {
         <p className="text-gray-300 text-lg sm:text-xl">
           For business enquiries please email{" "}
           <a href="mailto:carvestudioo@gmail.com" className="underline">
-            carvestudioo@gmail.com
+            carvestudio10@gmail.com
           </a>{" "}
           or call{" "}
           <a href="tel:+233202115651" className="underline">
