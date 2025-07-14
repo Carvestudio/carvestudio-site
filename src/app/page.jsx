@@ -8,7 +8,7 @@ export default function Home() {
       <div className="absolute inset-0 bg-black/60 flex flex-col items-center justify-center text-center p-6">
         <img
           src="/logotext.png"
-          alt="Maamani Agridev"
+          alt="Carve-logotext"
           className="mb-8 max-w-xs"
         />
         <h1 className="text-white text-4xl sm:text-5xl font-bold mb-4">
